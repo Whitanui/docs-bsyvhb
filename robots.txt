@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-et7dkz.date-me.pro/sitemap.xml
